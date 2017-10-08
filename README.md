@@ -1,3 +1,3 @@
 # github-error-repro
 
-Attempting to reproduce and document a possible github bug
+(Conflicting change for merge commit) Attempting to reproduce and document a possible github bug
